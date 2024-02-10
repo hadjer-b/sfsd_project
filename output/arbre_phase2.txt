@@ -1,0 +1,16 @@
+Arbre pour la Phase II: 
+(Algerie vs Palestine) 0 
+	(Senegal vs Algerie) 1 
+		(Morocoo vs Senegal) 2 
+			(Egypt vs Morocoo) 3 
+			(Parkistan vs Senegal) 3 
+		(Spain vs Algerie) 2 
+			(Costa_rica vs Spain) 3 
+			(Brazil vs Algerie) 3 
+	(Nigeria vs Palestine) 1 
+		(Australia vs Nigeria) 2 
+			(Australia vs Canada) 3 
+			(Nigeria vs India) 3 
+		(Serbia vs Palestine) 2 
+			(Serbia vs United_kingdom) 3 
+			(Palestine vs Urguay) 3 

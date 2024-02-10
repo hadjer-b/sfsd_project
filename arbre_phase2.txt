@@ -1,0 +1,16 @@
+Arbre pour la Phase II: 
+(Urguay vs Egypt) 0 
+	(Canada vs Urguay) 1 
+		(Canada vs Nigeria) 2 
+			(Canada vs Iran) 3 
+			(Tunisie vs Nigeria) 3 
+		(Qatar vs Urguay) 2 
+			(Qatar vs Swiss) 3 
+			(Urguay vs Palestine) 3 
+	(Egypt vs Algerie) 1 
+		(Egypt vs Senegal) 2 
+			(Mexico vs Egypt) 3 
+			(Senegal vs India) 3 
+		(Serbia vs Algerie) 2 
+			(Serbia vs United_kingdom) 3 
+			(Algerie vs Brazil) 3 
